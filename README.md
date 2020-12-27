@@ -9,4 +9,4 @@
 <h4>Et me contacter à cet adresse:</h4>
 <a href="mailto:hello@luckyfox.fr">hello@luckyfox.fr</a>
 <br>
-<h5>Merci beaucoup! <h5>
+<h5>Merci beaucoup! 💖<h5>
