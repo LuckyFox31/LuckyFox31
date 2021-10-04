@@ -8,5 +8,3 @@
 <a href='https://ko-fi.com/G2G03250Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> &nbsp; &nbsp; &nbsp; <a href='https://www.buymeacoffee.com/luckyfox' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.discordapp.com/attachments/548562532206510118/792799394146680842/BMC_logowordmark_-_White.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <h4>Et me contacter à cette adresse:</h4>
 <a href="mailto:hello@luckyfox.fr">hello@luckyfox.fr</a>
-<br>
-<h5>Merci beaucoup! 💖<h5>
