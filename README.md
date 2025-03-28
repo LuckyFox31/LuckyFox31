@@ -1,1 +1,1 @@
-![LuckyFox31's banner](./assets/img/banner.png?raw=true)
+![LuckyFox31's banner](./assets/img/banner.png)
